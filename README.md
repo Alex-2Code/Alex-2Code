@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Alex%20👋&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descSize=17&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Albert%20👋&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descSize=17&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+Developer+Tools;🤖+AI+%26+Automation+Enthusiast;📦+Open+Source+Contributor;💡+Always+Learning+Something+New)](https://git.io/typing-svg)
 
 <!-- Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/Alex-2Code?style=flat-square&logo=github&label=Followers)](https://github.com/Alex-2Code)
-[![GitHub stars](https://img.shields.io/github/stars/Alex-2Code?style=flat-square&logo=github&label=Stars)](https://github.com/Alex-2Code)
-[![Visitors](https://komarev.com/ghpvc/?username=Alex-2Code&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Alex-2Code)
+[![GitHub followers](https://img.shields.io/github/followers/AlbertSong1024?style=flat-square&logo=github&label=Followers)](https://github.com/AlbertSong1024)
+[![GitHub stars](https://img.shields.io/github/stars/AlbertSong1024?style=flat-square&logo=github&label=Stars)](https://github.com/AlbertSong1024)
+[![Visitors](https://komarev.com/ghpvc/?username=AlbertSong1024&color=blue&style=flat-square&label=Profile+Views)](https://github.com/AlbertSong1024)
 
 </div>
 
@@ -29,10 +29,10 @@ const alex = {
     funFact: "I automate everything, even my coffee ☕",
     
     askMeAbout: ["Python", "AI", "Web Dev", "Open Source"],
-    portfolio: "https://github.com/Alex-2Code",
+    portfolio: "https://github.com/AlbertSong1024",
     
     reachMeAt: {
-        github: "@Alex-2Code",
+        github: "@AlbertSong1024",
         email: "alex@example.com"
     }
 };
@@ -41,7 +41,7 @@ const alex = {
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Alex-2Code/Alex-2Code/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/AlbertSong1024/AlbertSong1024/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 </div>
 
@@ -52,15 +52,15 @@ const alex = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Alex-2Code/ai-commit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-2Code&repo=ai-commit&theme=radical&hide_border=true" />
+      <a href="https://github.com/AlbertSong1024/ai-commit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertSong1024&repo=ai-commit&theme=radical&hide_border=true" />
       </a>
       <br/>
       <sub>🤖 AI-powered Git commit message generator</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Alex-2Code/repo-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-2Code&repo=repo-stats&theme=radical&hide_border=true" />
+      <a href="https://github.com/AlbertSong1024/repo-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertSong1024&repo=repo-stats&theme=radical&hide_border=true" />
       </a>
       <br/>
       <sub>📊 GitHub repository statistics analyzer</sub>
@@ -68,15 +68,15 @@ const alex = {
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Alex-2Code/prompt-bench">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-2Code&repo=prompt-bench&theme=radical&hide_border=true" />
+      <a href="https://github.com/AlbertSong1024/prompt-bench">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertSong1024&repo=prompt-bench&theme=radical&hide_border=true" />
       </a>
       <br/>
       <sub>🧪 LLM prompt benchmarking tool</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Alex-2Code/multi-post">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-2Code&repo=multi-post&theme=radical&hide_border=true" />
+      <a href="https://github.com/AlbertSong1024/multi-post">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertSong1024&repo=multi-post&theme=radical&hide_border=true" />
       </a>
       <br/>
       <sub>📤 Multi-platform article publisher</sub>
@@ -128,15 +128,15 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-2Code&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlbertSong1024&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-2Code&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertSong1024&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-2Code&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSong1024&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
 
 </div>
 
@@ -146,7 +146,7 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Alex-2Code&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=2" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlbertSong1024&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -156,7 +156,7 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-2Code&theme=redical&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertSong1024&theme=redical&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&area_color=1f6feb" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -166,9 +166,9 @@ const alex = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex-2Code&theme=radical&utcOffset=8" alt="Working Hours" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlbertSong1024&theme=radical&utcOffset=8" alt="Working Hours" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-2Code&theme=radical" alt="Repos Per Language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlbertSong1024&theme=radical" alt="Repos Per Language" width="49%"/>
 
 </div>
 
@@ -199,9 +199,9 @@ const alex = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-2Code)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alex-2Code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alex-2Code)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlbertSong1024)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlbertSong1024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlbertSong1024)
 
 </div>
 
@@ -213,8 +213,8 @@ const alex = {
 
 If you find my projects helpful, consider giving them a ⭐️
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Alex-2Code)
-[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Alex-2Code)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/AlbertSong1024)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AlbertSong1024)
 
 </div>
 
@@ -224,6 +224,6 @@ If you find my projects helpful, consider giving them a ⭐️
 
 **📝 "First, solve the problem. Then, write the code." – John Johnson**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alex-2Code&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AlbertSong1024&color=blue&style=flat)
 
 </div>
